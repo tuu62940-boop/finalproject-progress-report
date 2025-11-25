@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Luke Broomall
 
 #### Your section leader's name
 
-TODO
+Tomma kanno
 
 #### Project title
 
-TODO
+**Extreme Breakout** (working title)
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+we have gotten the basic mechanics of the game down so far 
 
 #### What have you not done for your project yet?
 
-TODO
+we havent added powerups or other minor things like this
 
 #### What problems, if any, have you encountered?
 
-TODO
+there has been a bit of a learning curve but so far its been going pretty good
